@@ -9,11 +9,11 @@
 6. Stop the Program
 ## PROGRAM
 
-# DEVELOPED BY : JANANI S
+DEVELOPED BY : JANANI S
 
-# REG NO : 212223230086
+REG NO : 212223230086
 
-# Server 
+Server 
 ```
 import socket
 s=socket.socket()
@@ -34,7 +34,7 @@ while True:
  print(ack)
  i+=s
 ```
-# Client
+Client
 ```
 import socket
 s=socket.socket()
@@ -44,10 +44,10 @@ while True:
  s.send("acknowledgement recived from the server".encode())
 ```
 ## OUPUT
-# Server
+Server
 ![image](https://github.com/SJananisenthilkumar/2b_SLIDING_WINDOW_PROTOCOL/assets/144871139/e51aed5d-c696-49c1-a7a5-004da7f1eea0)
 
-# Client
+Client
 ![image](https://github.com/SJananisenthilkumar/2b_SLIDING_WINDOW_PROTOCOL/assets/144871139/757f03ab-3467-4c7a-b857-0125b48b56fd)
 
 ## RESULT
