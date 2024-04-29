@@ -1,5 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
+To perform a study of implementation of sliding window protocol
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
@@ -45,9 +46,11 @@ while True:
 ```
 ## OUPUT
 Server
+
 ![image](https://github.com/SJananisenthilkumar/2b_SLIDING_WINDOW_PROTOCOL/assets/144871139/e51aed5d-c696-49c1-a7a5-004da7f1eea0)
 
 Client
+
 ![image](https://github.com/SJananisenthilkumar/2b_SLIDING_WINDOW_PROTOCOL/assets/144871139/757f03ab-3467-4c7a-b857-0125b48b56fd)
 
 ## RESULT
